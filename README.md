@@ -9,7 +9,7 @@
 
 ##### 2.演示图片
 
-<img src="./image/1.png" style="zoom: 33%;" />
+<img src="https://github.com/mahuifa/Intelligent-watering-system/tree/master/image/1.png" style="zoom: 33%;" />
 
 
 
